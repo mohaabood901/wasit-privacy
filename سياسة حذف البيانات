@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>حذف البيانات – تطبيق وسيط الفكرة والاستثمار</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.8;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      direction: rtl;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    strong {
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>حذف البيانات – تطبيق وسيط الفكرة والاستثمار</h1>
+
+  <p>
+    نود إعلامك بأنه بمجرد <strong>حذفك لتطبيق "وسيط الفكرة والاستثمار"</strong> من جهازك، يتم حذف جميع بياناتك تلقائيًا من قاعدة بياناتنا، بما في ذلك الاسم، والمشاريع، والملاحظات، والمفضلة، وأي معلومات شخصية أخرى.
+  </p>
+
+  <p>
+    نحن لا نحتفظ بأي بيانات تتعلق بك بعد إزالة التطبيق، ولا نقوم بتخزين أي معلومات سرية بعد الحذف.
+  </p>
+
+  <p>
+    في حال واجهت أي مشكلة في حذف التطبيق أو لاحظت استمرار وجود بياناتك، لا تتردد في مراسلتنا على البريد الإلكتروني التالي:
+    <br />
+    <strong>lyk25073@gmail.com</strong>
+  </p>
+
+  <p>
+    شكرًا لاستخدامك تطبيق <strong>وسيط الفكرة والاستثمار</strong>. نحن دائمًا في خدمتك.
+  </p>
+
+</body>
+</html>
